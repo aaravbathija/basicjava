@@ -1,0 +1,50 @@
+Aarav/8th/Valley Catholic/Soccer
+
+Computer = Hardware + Software
+
+First Part
+
+Hardware = Things you can touch or feel
+	- Mouse, keyboard, CPU
+CPU
+C - Central
+P - Processing
+U - Unit
+CPU is like a brain
+
+RAM
+- Where things can be done temperarly 
+- Like a pen and scratch pad
+
+Hard Disk
+- Saves things permanently
+
+Second Part 
+
+Software = Things you cannot touch or feel
+	- Operating System
+	   - Software we interact with to run other programs
+		- Windows 10, Windows 7, Xp, OS X, Linux
+Program - A set of instructions
+
+Decimal System 
+
+546 = (5*100)+(4*10)+(6*1) 
+		Or
+      (5*10^2)+(4*10^1)+(6*10^0)
+- Uses numbers 0-9
+- Uses 10 numbers and base called 10
+- Deca is 10 and hence it is called decimal
+
+Binary System
+
+- Uses only numbers 0-1
+- To convert from decimal to binary, you use powers of 2
+ 
+For example: 83
+It uses the numbers 64+16+2+1
+There is no number in the place for the 32, 8, and 4
+So, the binary number for 83 is 1010011
+
+We learned binary because computers use the binary system
+
