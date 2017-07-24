@@ -1,1 +1,11 @@
 This is my session 3 notes for java 
+
+Commands and descriptions
+1. git status
+  - shows the status of any additions/modifications/deletions
+2. git add *
+  - adds files local
+3. git commit -m"some comment"
+  - commits to local repository
+4. git push origin master
+  - finally they are in your github account 
