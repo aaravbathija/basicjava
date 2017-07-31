@@ -1,0 +1,8 @@
+session 4 notes
+you use variables and data types to do what you want in eclipse
+in java, you need o specify the type of data
+syntax is grammar to programming
+naming of variables
+  When naming variables in Java programming, it is best practice give proper good names for easy understanding and readability of the code
+indenting is important 
+always make sure you have a complete set of curly brackets
