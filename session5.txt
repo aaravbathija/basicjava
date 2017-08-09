@@ -1,0 +1,5 @@
+When writing program have an idea of what it will look like even if you have no idea what code you need to write
+Use else if if something could be reversed in the outcome
+Use for loop if u want multiple printings
+In the toolbar in eclipse, one letter of each word will be underlined. So, if you press Ctrl and that letter, it will take you there
+By typing Alt F and pressing Enter twice you will be in creating new Java project
