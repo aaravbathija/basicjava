@@ -1,0 +1,28 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Creating my own data types");
+		int age = 12;
+		
+		
+		Person P1 = new Person(); 
+		P1.age = 13;
+		P1.name = "Aarav";
+		P1.grade = 8;
+		System.out.println(P1.name);
+		System.out.println(P1.age);
+		System.out.println(P1.grade);
+		
+		Person P2 = new Person(); 
+		P2.age = 14;
+		P2.name = "Bob";
+		P2.grade = 9;
+		System.out.println(P2.name);
+		System.out.println(P2.age);
+		System.out.println(P2.grade);
+	}
+	
+
+}
