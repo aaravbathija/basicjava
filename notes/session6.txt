@@ -1,0 +1,4 @@
+classifying data types
+when using int, which stands for integer, you can only use numbers
+when using string, you can put whatever you want but make sure it is in quotation marks
+you can classify things using string and int
