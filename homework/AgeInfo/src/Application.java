@@ -1,5 +1,5 @@
 
-public interface Applications {
+public interface Application {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
