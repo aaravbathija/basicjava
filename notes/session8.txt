@@ -1,0 +1,4 @@
+class is the technical term for creating data type
+object is the technical term creating variable
+What we have called actions are called methods in java terminology
+class will have both fields and methods
