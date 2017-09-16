@@ -1,0 +1,13 @@
+Synatx is very important 
+if comfortable with synatx, you can find errors and other things easily
+if statement is always followed by parenthesis for code
+Condition will tell whether it is true or false based on what x and y are
+else if statements are used when there is another outcome instead of the if statement 
+use as many as needed 
+for loops has three parts to it
+Those are what x=, what x is less than or greater to, and what to add to x
+it is like that so you can print as many lines as you want( if the code is correct and based on the statements)
+When classifying a person, use String or integer
+When using integer, you can only use numbers
+When using words, you can only use words but when printing it, you have to have the words you want in quotation marks
+Use example, action, input, output
