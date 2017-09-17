@@ -1,0 +1,17 @@
+Class
+- Template, blue print, cookie cutter, recipe
+- Contains fields and methods
+- Singular noun
+- Synatax
+Object
+- Creating a variable
+Fields 
+- Properties in Class
+Methods
+- Actions
+- Verbs
+- Syntax
+Connection Bewtween Methods and Fields
+- Methods can access fields
+Boolean 
+- Used to say yes or no
